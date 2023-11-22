@@ -65,10 +65,9 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/karlinhaxavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/karlinhaxavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-https://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==
+<a href = "mailto:contato."> <imhttps://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==g src="https://img.shields.io/badge/-Gmail-%23333?sKakakarla897@gmail.comtyle=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://" target="_blank"><img src="httpshttps://www.linkedin.com/in/karla-xavier-952683291://img.shields.io/badge/-LinkedIn=linkedin&https://www.linkedin.com/in/karla-xavier-952683291logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
