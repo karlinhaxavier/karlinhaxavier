@@ -79,10 +79,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-- 🔭 .Kakakarla897@gmail.com
-- 🌱 https://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==
-- 👯 https://www.linkedin.com/in/karla-xavier-95268329
-- 📫 61986217034
 
