@@ -74,7 +74,7 @@
 <a href = "mailto:contato."> <imhttps://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==g src="https://img.shields.io/badge/-Gmail-%23333?sKakakarla897@gmail.comtyle=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://" target="_blank"><img src="httpshttps://www.linkedin.com/in/karla-xavier-952683291://img.shields.io/badge/-LinkedIn=linkedin&https://www.linkedin.com/in/karla-xavier-952683291logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&
+
   Sobre mim😎
 Atualmente atuo num Projeto, que se intitula "Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java. certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
 
