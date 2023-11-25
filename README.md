@@ -70,13 +70,16 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/karlinhaxavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-https://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==
+<a href="https://www.instagram.com/karlinhaxavier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-https:/karladesousaxavier?/instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==
 <a href = "mailto:contato."> <imhttps://instagram.com/karladesousaxavier?igshid=NGVhN2U2NjQ0Yg==g src="https://img.shields.io/badge/-Gmail-%23333?sKakakarla897@gmail.comtyle=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://" target="_blank"><img src="httpshttps://www.linkedin.com/in/karla-xavier-952683291://img.shields.io/badge/-LinkedIn=linkedin&https://www.linkedin.com/in/karla-xavier-952683291logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+</div>&nbsp;&
+  Sobre mim😎
+Atualmente atuo num Projeto, que se intitula "Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java. certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
 
-  
+👩🏾 💻 Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas. Trabalhando no Projeto Pessoa Legal onde estamos desenvolvendo, 🎓 História de Usuário de acesso, cadastro e recuperação de senha. Configuração de variável de ambiente no Windows e Linux. Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver) Acesso ssh ao servidor principal, zabbix, Git, Mysql Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
+
+🌱 Aprendendo mais sobre: Java _ MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web, Ambiente de configuração de trabalho.
   
 
