@@ -3,19 +3,14 @@
 - 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, (Migrando para a área de TI)
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
-- 📫 How to reach email:.Kakakarla897@gmail.com
-<div>
+-  📫 How to reach email:.Kakakarla897@gmail.com
 
-    
-<a href="https://github.com/karlinhaxavier">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green">
 
-            
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
+
 ## My Skills
 #### Main Stack:
-
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
