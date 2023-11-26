@@ -6,11 +6,9 @@
 - 📫 How to reach email:.Kakakarla897@gmail.com
 <div>
 
-  <a href="https://github.com/karlinhaxavier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=true&theme=blue-green&include_all_commits=true&count_private=blue-green"/
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
-
+    
+<a href="https://github.com/karlinhaxavier">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
 
 ## My Skills
 #### Main Stack:
