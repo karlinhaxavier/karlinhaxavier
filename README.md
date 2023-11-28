@@ -8,9 +8,9 @@
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
 
 ## My Skills
 #### Main Stack:
