@@ -4,9 +4,12 @@
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 -  📫 How to reach email:.Kakakarla897@gmail.com
-
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+ <br/>
+<div>
+  <a href="https://github.com/karlinhaxavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
 
 ## My Skills
@@ -20,7 +23,7 @@
 <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 #### Databases:
