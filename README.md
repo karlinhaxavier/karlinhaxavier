@@ -1,11 +1,12 @@
 ## olá👋 eu sou karla xavier, estudante e apaixonada por tecnologia!
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
 
 - 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, (Migrando para a área de TI)
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 -  📫 How to reach email:.Kakakarla897@gmail.com
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+ <br/>
+<div>
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
@@ -51,4 +52,18 @@
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
 
-
+</div>
+<br/>
+ ## Sobre mim😎Atualmente atuo num Projeto, que se intitula “Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java.
+certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
+>👩🏾‍💻 Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas.
+Trabalhando no Projeto Pessoa Legal onde estamos desenvolvendo,
+>🎓 História de Usuário de acesso, cadastro e recuperação de senha.
+Configuração de variável de ambiente no Windows e Linux.
+Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
+Acesso ssh ao servidor principal, zabbix, Git, Mysql
+Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
+>🌱 Aprendendo mais sobre: Java _ MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
+Ambiente de configuração de trabalho.
+ <br/>
+ 
