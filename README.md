@@ -5,8 +5,7 @@
 - 🌱 Estudando Java...
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 -  📫 How to reach email:.Kakakarla897@gmail.com
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=cabeçalho"/>
- src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
