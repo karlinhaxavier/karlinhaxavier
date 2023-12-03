@@ -10,9 +10,9 @@
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
-  <img height="130em" width="200em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=karlinhaxavier&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   
-  <img height="130em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
+  <img height="180em" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhaxavier&layout=compact&langs_count=16&theme=blue-green"/>
 
   <img height="130em" width="150em" src="http://1.bp.blogspot.com/-sJGD8ShYQ4o/UQZ_-hhse1I/AAAAAAAAeoQ/VrS8RkGH5gk/s1600/22.gif"/>
 
