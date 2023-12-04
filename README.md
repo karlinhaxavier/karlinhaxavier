@@ -6,7 +6,7 @@
 -  📫 How to reach email:.Kakakarla897@gmail.com
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
-<div>
+
  <br/>
 <div>
   <a href="https://github.com/karlinhaxavier">
